@@ -1,5 +1,8 @@
 package com.heima.model.common.enums;
 
+/**
+ * 错误信息状态码
+ */
 public enum AppHttpCodeEnum {
 
     // 成功段0

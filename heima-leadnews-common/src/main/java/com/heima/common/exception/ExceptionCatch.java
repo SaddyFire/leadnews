@@ -1,6 +1,5 @@
 package com.heima.common.exception;
 
-
 import com.heima.model.common.dtos.ResponseResult;
 import com.heima.model.common.enums.AppHttpCodeEnum;
 import lombok.extern.slf4j.Slf4j;
